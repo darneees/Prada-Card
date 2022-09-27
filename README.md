@@ -24,7 +24,7 @@ https://www.flaticon.com/br/
 
 ## Deployed
 
-
+https://darneees.github.io/Prada-Card/
 
 <h3 align="center">
 
