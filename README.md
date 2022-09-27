@@ -24,7 +24,7 @@ https://www.flaticon.com/br/
 
 ## Deployed
 
-https://darneees.github.io/Preview-Card/
+
 
 <h3 align="center">
 
