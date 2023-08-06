@@ -21,10 +21,13 @@ https://unsplash.com/
 
 https://www.flaticon.com/br/
 
-
 ## Deployed
 
 https://darneees.github.io/Prada-Card/
+
+<p align="center">
+  Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+</p>
 
 <h3 align="center">
 
